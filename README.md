@@ -8,9 +8,9 @@ The electrical system is integrated using 4 main PCBs:
 
 
 ***Power management PCBs' specifications:***
-###### 1- Single layer.
-###### 2- Voltage input range from 48V to 36V. 
-###### 3- Over-current, voltage and thermal safety system
+> ###### 1- Single layer.
+> ###### 2- Voltage input range from 48V to 36V. 
+> ###### 3- Over-current, voltage and thermal safety system
 
 Communication and actuators' control PCBs' specification:
 1- Single layer.
