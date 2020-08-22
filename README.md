@@ -18,5 +18,8 @@ These are the printed circuit boards (PCBs) designed for controlling the Remotel
 > ###### 3- The required voltage output with 99% efficiency
 > ###### 4- Data transferring capability over Bluetooth/USB serial.
 
+# Electronics' Enclosure Assembly
+<img src = "img/Structure.jpeg" />
+
 # Board I
 <img src = "img/Board_I_PCB.png" width ="500" /> <img src = "img/Board_I_3D.png" width ="500" />
