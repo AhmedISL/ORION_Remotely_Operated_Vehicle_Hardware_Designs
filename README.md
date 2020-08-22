@@ -22,13 +22,13 @@ These are the printed circuit boards (PCBs) designed for controlling the Remotel
 <img src = "img/Structure.jpeg" />
 
 # Board I
-<img src = "img/Board_I_PCB.png" width ="450" /> <img src = "img/Board_I_3D.png" width ="450" />
+<img src = "img/Board_I_PCB.png" width ="400" /> <img src = "img/Board_I_3D.png" width ="400" />
 
 # Board II
-<img src = "img/Board_II_PCB.png" width ="450" /> <img src = "img/Board_II_3D.png" width ="450" />
+<img src = "img/Board_II_PCB.png" width ="400" /> <img src = "img/Board_II_3D.png" width ="400" />
 
 # Board 2
-<img src = "img/Board2_PCB.png" width ="450" /> <img src = "img/Board2_3D.png" width ="450" />
+<img src = "img/Board2_PCB.png" width ="400" /> <img src = "img/Board2_3D.png" width ="400" />
 
 # Board 3
-<img src = "img/Board3_PCB.png" width ="450" /> <img src = "img/Board3_3D.png" width ="450" />
+<img src = "img/Board3_PCB.png" width ="400" /> <img src = "img/Board3_3D.png" width ="400" />
