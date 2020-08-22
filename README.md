@@ -14,7 +14,8 @@ These are the printed circuit boards (PCBs) designed for controlling the Remotel
 
 ***Communication and actuators' control PCBs' specification:***
 > ###### 1- Single layer.
-> ###### 2- The required voltage output with 99% efficiency
-> ###### 3- Data transferring capability over Bluetooth/USB serial.
+> ###### 2- Voltage input range from 12V to 9V.
+> ###### 3- The required voltage output with 99% efficiency
+> ###### 4- Data transferring capability over Bluetooth/USB serial.
 
 # Board I
