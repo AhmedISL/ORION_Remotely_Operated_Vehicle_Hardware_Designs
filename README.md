@@ -3,8 +3,8 @@
 These are the printed circuit boards (PCBs) designed for controlling the Remotely Operated Vehicle (ROV) which participated in the MATE international ROV competition 2019 and won the 7th place internationally and the 1st place locally and regionally.
 
 ## The electrical system is integrated using 4 main PCBs:
-> ###### 1- **2** for the power management.
-> ###### 2- **2** for the communication system and actuators' control.
+> ###### 1- **2** PCBs for the power management.
+> ###### 2- **2** PCBs for the communication system and actuators' control.
 
 
 ***Power management PCBs' specifications:***
@@ -15,5 +15,6 @@ These are the printed circuit boards (PCBs) designed for controlling the Remotel
 ***Communication and actuators' control PCBs' specification:***
 > ###### 1- Single layer.
 > ###### 2- The required voltage output with 99% efficiency
-> ###### 3- Data transferring capability over USB serial.
+> ###### 3- Data transferring capability over Bluetooth/USB serial.
 
+# Board I
