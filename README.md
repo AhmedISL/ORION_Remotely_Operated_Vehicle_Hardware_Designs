@@ -19,4 +19,4 @@ These are the printed circuit boards (PCBs) designed for controlling the Remotel
 > ###### 4- Data transferring capability over Bluetooth/USB serial.
 
 # Board I
-<img src = "img/Board_I_PCB.png" width ="200" /> <img src = "img/Board_I_3D.png" width ="200" />
+<img src = "img/Board_I_PCB.png" width ="400" /> <img src = "img/Board_I_3D.png" width ="400" />
