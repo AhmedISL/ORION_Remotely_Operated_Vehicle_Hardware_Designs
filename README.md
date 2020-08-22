@@ -1,4 +1,4 @@
-# ORION Remotely Operated Vehicle Hardware Designs
+# ORION Remotely Operated Vehicle Hardware Design
 
 These are the printed circuit boards (PCBs) designed for controlling the Remotely Operated Vehicle (ROV) which participated in the MATE international ROV competition 2019 and won the 7th place internationally and the 1st place locally and regionally.
 
@@ -23,3 +23,12 @@ These are the printed circuit boards (PCBs) designed for controlling the Remotel
 
 # Board I
 <img src = "img/Board_I_PCB.png" width ="500" /> <img src = "img/Board_I_3D.png" width ="500" />
+
+# Board II
+<img src = "img/Board_II_PCB.png" width ="500" /> <img src = "img/Board_II_3D.png" width ="500" />
+
+# Board 2
+<img src = "img/Board2_PCB.png" width ="500" /> <img src = "img/Board2_3D.png" width ="500" />
+
+# Board 3
+<img src = "img/Board3_PCB.png" width ="500" /> <img src = "img/Board3_3D.png" width ="500" />
